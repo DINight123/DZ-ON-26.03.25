@@ -17,25 +17,25 @@ git clone https://github.com/nameUser/nameRep.git
     <li>nameUser — имя пользователя</li>
     <li>nameRep — название репозитория</li>
 </ul>
-<img src="photos/gitClone.png">
+<img src="photos/clone.png">
 
 # Смотрим какие есть ветки
 ```bash
 git lbranch
 ```
-<img src="photos/gitBranch.png">
+<img src="photos/branch.png">
 
 # Создадим свою ветку
 ```bash
 git branch name_branch
 ```
-<img src="photos/gitCreateBranch.png">
+<img src="photos/branch.png">
 
 # Переключимся на созданную ветку
 ```bash
 git checkout name_branch
 ```
-<img src="photos/gitCheckout.png">
+<img src="photos/checkout.png">
 
 # Добавляем файлы
 ```bash
@@ -45,7 +45,7 @@ git add .
 ```bash
 git commit -m 'message commit'
 ```
-<img src="photos/gitCommit.png">
+<img src="photos/commit.png">
 
 # Показываем ветку github
 ```bash
@@ -55,6 +55,6 @@ git push --set-upstream origin name_branch
 
 # Принятия/отклонение pull requests
 
-<img src="photos/gitPush.png">
+<img src="photos/.png">
 
 <img src="photos/pull.png">
