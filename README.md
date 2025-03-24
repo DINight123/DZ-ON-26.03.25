@@ -41,6 +41,7 @@ git checkout name_branch
 ```bash
 git add .
 ```
+<img src="photos/add.PNG">
 # Создаем коммит
 ```bash
 git commit -m 'message commit'
