@@ -56,6 +56,6 @@ git push --set-upstream origin name_branch
 
 # Принятия/отклонение pull requests
 
-<img src="photos/.PNG">
+<img src="photos/pull2.PNG">
 
 <img src="photos/pull.PNG">
