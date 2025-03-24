@@ -51,7 +51,7 @@ git commit -m 'message commit'
 ```bash
 git push --set-upstream origin name_branch
 ```
-<img src="photos/gitPushSet.PNG">
+<img src="photos/push.PNG">
 
 # Принятия/отклонение pull requests
 
